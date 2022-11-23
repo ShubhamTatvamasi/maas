@@ -1,6 +1,11 @@
 # maas
 
-Install Mass:
+Install Maas:
 ```bash
-sudo apt install mass
+sudo apt install maas
+```
+
+Initialize Maas:
+```bash
+sudo maas init
 ```
