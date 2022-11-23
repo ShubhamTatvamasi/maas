@@ -2,7 +2,7 @@
 
 Install Maas:
 ```bash
-sudo apt install maas
+sudo snap install maas
 ```
 
 Initialize Maas:
