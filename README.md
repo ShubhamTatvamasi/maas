@@ -7,5 +7,5 @@ sudo snap install maas
 
 Initialize Maas:
 ```bash
-sudo maas init
+sudo maas init region+rack
 ```
