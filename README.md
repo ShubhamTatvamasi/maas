@@ -10,3 +10,8 @@ Initialize Maas:
 ```bash
 sudo maas init region+rack --database-uri maas-test-db:///
 ```
+
+Create new user:
+```bash
+sudo maas createadmin
+```
