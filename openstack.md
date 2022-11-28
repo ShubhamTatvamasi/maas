@@ -1,5 +1,7 @@
 # openstack
 
+https://charmhub.io/openstack-base
+
 Setup MAAS:
 ```bash
 sudo snap install maas-test-db
